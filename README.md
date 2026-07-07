@@ -1,17 +1,29 @@
-# SignSyncAI
-AI-powered two-way sign language communication using deep learning and computer vision.
-## Features
-- 🤟 Sign Language → Text
-- 🔊 Text → Speech
-- 🎤 Speech → Text
-- 📷 Real-time Gesture Recognition
-- 🧠 AI-based Sign Classification
-- 💻 User-Friendly Interface
+# Gesture: A Two-Way Sign Language Communication System
 
-## Tech Stack
+## Overview
+An AI-powered accessibility application that enables two-way communication between sign language users and non-sign language users.
+
+## Key Features
+- Real-time Sign Language → Text
+- Text → Speech Conversion
+- Speech → Text Conversion
+- Deep Learning-based Recognition
+- Webcam-based Gesture Detection
+- Modular Python Architecture
+
+## Technologies
 - Python
 - OpenCV
-- MediaPipe
 - TensorFlow/Keras
 - SpeechRecognition
 - pyttsx3
+- NumPy
+
+## Future Enhancements
+- Sentence prediction
+- Multiple language support
+- Mobile application
+- Cloud deployment
+
+## Author
+Dharaneesh V
